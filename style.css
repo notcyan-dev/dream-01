@@ -1,6 +1,6 @@
 @font-face {
     font-family: akira;
-    src: url(AkiraExpanded.woff);
+    src: url(./AkiraExpanded.woff);
 }
 
 * {
@@ -8,7 +8,7 @@
   padding: 0;
   border: 0;
   box-sizing: border-box;
-  font-family: "akira";
+  font-family: 'akira';
   list-style: none;
   text-decoration: none;
 }
